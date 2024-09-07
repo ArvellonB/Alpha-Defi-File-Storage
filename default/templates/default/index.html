@@ -1,0 +1,116 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="zxx" class="js">
+<head>
+	<meta charset="utf-8">
+<meta name="author" content="Softnio">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="description" content="">
+<!-- Fav Icon  -->
+<link rel="shortcut icon" href="{% static 'default/assets/images/favicon.png' %}">
+<!-- Site Title  -->
+<title>Coming Soon - Paradisum</title>
+<!-- Bundle and Base CSS -->
+<link rel="stylesheet" href="{% static 'default/assets/css/vendor.bundle.css' %}">
+<link rel="stylesheet" href="{% static 'default/assets/css/style-azalea.css' %}" id="changeTheme">
+<!-- Extra CSS -->
+<link rel="stylesheet" href="{% static 'default/assets/css/theme.css' %}">
+<script src="https://cdn.jsdelivr.net/npm/mobile-detect@1.4.4/mobile-detect.min.js"></script>
+<script>
+	var isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+	</script>
+
+
+</head>
+  
+
+
+    <body class="nk-body body-wider bg-theme">
+
+	<div class="nk-wrap">
+        <main class="nk-pages nk-pages-centered tc-light">
+            <header class="text-center py-5">
+                <a href="/" class="logo-link">
+                    <!-- <img class="comming-soon-logo" src="images/logo-s2-white.png" srcset="images/logo-s2-white2x.png 2x" alt="logo"> -->
+                    <script>
+                        if (isMobile) {
+                            document.write("<h1 style='font-size: 12vw;'>Paradisum<a href='/light/'' name='changemode' id='changemode'><i class='far fa-sun'></i></a></h1>");
+                        }
+                       else {
+                           document.write("<h1 style='font-size: 80px;'>Paradisum</h1>");
+                       }
+                        </script>
+                </a>
+            </header>
+            <div class="my-auto">
+                <div class="container">
+                    <div class="row justify-content-center">
+                        <div class="co-lg-8">
+                            <div class="text-center">
+                                <div class="countdown-s3 countdown-xxl countdown-wd countdown-thin countdown mb-5" data-date="2021/08/10" data-min-text="Minutes" data-sec-text="Seconds"></div>
+                                <script>
+                                    if (isMobile) {
+                                        document.write("<h2 class='title title-xl title-thin' style='font-size:36px;'>We are preparing to revolutionize public education through our Blockchain</h2><p style='font-size:30px;'>Sign up to be notified about our progress.</p>");
+                                    }
+                                   else {
+                                       document.write("<h2 class='title title-xl title-thin'>We are preparing to revolutionize public education through our Blockchain</h2><p style='font-size:40px;'>Sign up to be notified about our progress.</p>");
+                                   }
+                                    </script>
+                                <div class="row justify-content-center">
+                                    <div class="col-md-9 ">
+                                        <script>
+                                            if (isMobile) {
+                                                document.write("<br>");
+                                            }
+                                           else {
+                                               document.write("<br><br>");
+                                           }
+                                            </script>
+                                        <form method="post">
+                                            {% csrf_token %}
+                                            <div class="field-inline field-inline-wrap field-inline-round field-inline-s2-sm">
+                                                <div class="field-wrap mr-3">
+                                                    <input class="input-solid required email bg-theme-alt round-xl" type="text" name="contact-email" placeholder="Enter your email">
+                                                    <input type="text" class="d-none" name="email" id="email" value="">
+                                                </div>
+                                                <div class="submit-wrap">
+                                                    <button type="submit" class="btn btn-primary btn-round h-100 btn-md" name="subform" id="subform">Subscribe</button>
+                                                </div><script>
+                                                    if (isMobile) {
+                                                        document.write("");
+                                                    }
+                                                   else {
+                                                       document.write("<a href='/light/'' name='changemode' id='changemode'><i class='far fa-sun' style='font-size: 60px; text-indent: 40%;''></i></a>");
+                                                   }
+                                                   </script>
+                                            </div>
+                                            <div class="form-results"></div>
+                                        </form>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <footer class="text-center py-5">
+                <!-- <ul class="social mb-4">
+                    <li><a href="#"><em class="social-icon fab fa-facebook-f"></em></a></li>
+                    <li><a href="#"><em class="social-icon fab fa-twitter"></em></a></li>
+                    <li><a href="#"><em class="social-icon fab fa-medium-m"></em></a></li>
+                    <li><a href="#"><em class="social-icon fab fa-github"></em></a></li>
+                    <li><a href="#"><em class="social-icon fab fa-bitcoin"></em></a></li>
+                </ul> -->
+                <p class="copyright-text copyright-text-s3">Copyright © 2021 Paradisum. All Rights Reserved.</p>
+            </footer>  
+            <div class="nk-ovm shape-i ov-h"></div> 
+        </main>
+    </div>
+	<div class="preloader"><span class="spinner spinner-round"></span></div>
+	
+	<!-- JavaScript -->
+	<script src="{% static 'default/assets/js/jquery.bundle.js' %}"></script>
+	<script src="{% static 'default/assets/js/scripts.js' %}"></script>
+	<script src="{% static 'default/assets/js/charts.js' %}"></script>
+</body>
+</html>

@@ -1,0 +1,85 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="zxx" class="js">
+<head>
+	<meta charset="utf-8">
+<meta name="author" content="Softnio">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="description" content="">
+<!-- Fav Icon  -->
+<link rel="shortcut icon" href="{% static 'default/assets/images/favicon.png' %}">
+<!-- Site Title  -->
+<title>Coming Soon - Paradisum</title>
+<!-- Bundle and Base CSS -->
+<link rel="stylesheet" href="{% static 'default/assets/css/vendor.bundle.css' %}">
+<link rel="stylesheet" href="{% static 'default/assets/css/style-azalea.css' %}" id="changeTheme">
+<!-- Extra CSS -->
+<link rel="stylesheet" href="{% static 'default/assets/css/theme.css' %}">
+
+<style>
+    .bg-theme {
+    background-color: #4569c2 !important;
+}
+.bg-theme-alt {
+    background-color: #5471b8 !important;
+}
+</style>
+<script src="https://cdn.jsdelivr.net/npm/mobile-detect@1.4.4/mobile-detect.min.js"></script>
+<script>
+	var isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+	</script>
+</head>
+  
+
+
+    <body class="nk-body body-wider bg-theme">
+
+	<div class="nk-wrap">
+        <main class="nk-pages nk-pages-centered tc-light">
+            <header class="text-center py-5">
+                <a href="/" class="logo-link">
+                    <!-- <img class="comming-soon-logo" src="images/logo-s2-white.png" srcset="images/logo-s2-white2x.png 2x" alt="logo"> -->
+                    <script>
+                        if (isMobile) {
+                            document.write("<h1 style='font-size: 15vw;'>Paradisum</h1>");
+                        }
+                       else {
+                           document.write("<h1 style='font-size: 80px;'>Paradisum</h1>");
+                       }
+                        </script>
+                </a>
+            </header>
+            <div class="my-auto">
+                <div class="container">
+                    <div class="row justify-content-center">
+                        <div class="co-lg-8">
+                            <div class="text-center">
+                                <div class="countdown-s3 countdown-xxl countdown-wd countdown-thin countdown mb-5" data-date="2021/08/10" data-min-text="Minutes" data-sec-text="Seconds"></div>
+                                <h2 class="title title-xl title-thin">Thank you for signing up!</h2>
+                                <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do<br class="d-none d-sm-block"> eiusmod tempor incididunt ut labore.</p> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <footer class="text-center py-5">
+                <ul class="social mb-4">
+                    <li><a href="#"><em class="social-icon fab fa-facebook-f"></em></a></li>
+                    <li><a href="#"><em class="social-icon fab fa-twitter"></em></a></li>
+                    <li><a href="#"><em class="social-icon fab fa-medium-m"></em></a></li>
+                    <li><a href="#"><em class="social-icon fab fa-github"></em></a></li>
+                    <li><a href="#"><em class="social-icon fab fa-bitcoin"></em></a></li>
+                </ul>
+                <p class="copyright-text copyright-text-s3">Copyright © 2021 Paradisum. All Rights Reserved.</p>
+            </footer>  
+            <div class="nk-ovm shape-i ov-h"></div> 
+        </main>
+    </div>
+	<div class="preloader"><span class="spinner spinner-round"></span></div>
+	
+	<!-- JavaScript -->
+	<script src="{% static 'default/assets/js/jquery.bundle.js' %}"></script>
+	<script src="{% static 'default/assets/js/scripts.js' %}"></script>
+	<script src="{% static 'default/assets/js/charts.js' %}"></script>
+</body>
+</html>

@@ -1,0 +1,743 @@
+[Wed Oct 06 20:30:01.033484 2021] [wsgi:error] [pid 206127] [remote 134.71.15.78:58778] Invalid HTTP_HOST header: 'paradisum.io'. You may need to add 'paradisum.io' to ALLOWED_HOSTS.
+[Wed Oct 06 20:30:01.086681 2021] [wsgi:error] [pid 206127] [remote 134.71.15.78:58778] Bad Request: /
+[Wed Oct 06 20:30:01.330984 2021] [wsgi:error] [pid 206127] [remote 134.71.15.78:50351] Invalid HTTP_HOST header: 'paradisum.io'. You may need to add 'paradisum.io' to ALLOWED_HOSTS.
+[Wed Oct 06 20:30:01.360264 2021] [wsgi:error] [pid 206127] [remote 134.71.15.78:50351] Bad Request: /favicon.ico
+[Wed Oct 06 20:52:14.275378 2021] [wsgi:error] [pid 206127] [remote 134.71.15.78:51132] Invalid HTTP_HOST header: 'paradisum.io'. You may need to add 'paradisum.io' to ALLOWED_HOSTS.
+[Wed Oct 06 20:52:14.305867 2021] [wsgi:error] [pid 206127] [remote 134.71.15.78:51132] Bad Request: /
+[Wed Oct 06 20:52:14.431494 2021] [wsgi:error] [pid 206127] [remote 134.71.15.78:59080] Invalid HTTP_HOST header: 'paradisum.io'. You may need to add 'paradisum.io' to ALLOWED_HOSTS.
+[Wed Oct 06 20:52:14.459589 2021] [wsgi:error] [pid 206127] [remote 134.71.15.78:59080] Bad Request: /favicon.ico
+[Wed Oct 06 21:23:53.768066 2021] [wsgi:error] [pid 206127] [remote 96.45.163.18:60018] Invalid HTTP_HOST header: 'paradisum.io'. You may need to add 'paradisum.io' to ALLOWED_HOSTS.
+[Wed Oct 06 21:23:53.797046 2021] [wsgi:error] [pid 206127] [remote 96.45.163.18:60018] Bad Request: /
+[Wed Oct 06 21:23:54.999672 2021] [wsgi:error] [pid 206127] [remote 107.174.133.232:57635] Invalid HTTP_HOST header: 'www.paradisum.io'. You may need to add 'www.paradisum.io' to ALLOWED_HOSTS.
+[Wed Oct 06 21:23:55.028915 2021] [wsgi:error] [pid 206127] [remote 107.174.133.232:57635] Bad Request: /
+[Wed Oct 06 21:36:08.393401 2021] [wsgi:error] [pid 206127] [remote 34.222.106.9:6378] Invalid HTTP_HOST header: 'www.paradisum.io'. You may need to add 'www.paradisum.io' to ALLOWED_HOSTS.
+[Wed Oct 06 21:36:08.421930 2021] [wsgi:error] [pid 206127] [remote 34.222.106.9:6378] Bad Request: /
+[Wed Oct 06 21:46:42.336946 2021] [wsgi:error] [pid 206127] [remote 54.184.241.242:46108] Invalid HTTP_HOST header: 'www.paradisum.io'. You may need to add 'www.paradisum.io' to ALLOWED_HOSTS.
+[Wed Oct 06 21:46:42.364350 2021] [wsgi:error] [pid 206127] [remote 54.184.241.242:46108] Bad Request: /
+[Wed Oct 06 22:19:37.665827 2021] [wsgi:error] [pid 206127] [remote 119.123.241.163:52084] Invalid HTTP_HOST header: 'www.paradisum.io'. You may need to add 'www.paradisum.io' to ALLOWED_HOSTS.
+[Wed Oct 06 22:19:37.694370 2021] [wsgi:error] [pid 206127] [remote 119.123.241.163:52084] Bad Request: /
+[Wed Oct 06 23:54:09.163980 2021] [wsgi:error] [pid 206127] [remote 111.7.100.25:53110] Invalid HTTP_HOST header: 'www.paradisum.io'. You may need to add 'www.paradisum.io' to ALLOWED_HOSTS.
+[Wed Oct 06 23:54:09.192246 2021] [wsgi:error] [pid 206127] [remote 111.7.100.25:53110] Bad Request: /
+Exception ignored in: <function Local.__del__ at 0x7fc2ae1aa0d0>
+Traceback (most recent call last):
+  File "/var/www/paradisum/paradisumenv/lib/python3.8/site-packages/asgiref/local.py", line 96, in __del__
+NameError: name 'TypeError' is not defined
+Exception ignored in: <function Local.__del__ at 0x7fc2ae1aa0d0>
+Traceback (most recent call last):
+  File "/var/www/paradisum/paradisumenv/lib/python3.8/site-packages/asgiref/local.py", line 96, in __del__
+NameError: name 'TypeError' is not defined
+[Thu Oct 07 00:11:33.542163 2021] [wsgi:error] [pid 207324] [remote 52.125.128.12:10307] Invalid HTTP_HOST header: 'paradisum.io'. You may need to add 'paradisum.io' to ALLOWED_HOSTS.
+[Thu Oct 07 00:11:33.542707 2021] [wsgi:error] [pid 207324] [remote 52.125.128.12:10304] Invalid HTTP_HOST header: 'paradisum.io'. You may need to add 'paradisum.io' to ALLOWED_HOSTS.
+[Thu Oct 07 00:11:33.624948 2021] [wsgi:error] [pid 207324] [remote 52.125.128.12:10307] Bad Request: /autodiscover/autodiscover.xml
+[Thu Oct 07 00:11:33.627139 2021] [wsgi:error] [pid 207324] [remote 52.125.128.12:10304] Bad Request: /autodiscover/autodiscover.xml
+[Thu Oct 07 00:22:30.540128 2021] [wsgi:error] [pid 207324] [remote 35.163.227.238:43867] Invalid HTTP_HOST header: 'www.paradisum.io'. You may need to add 'www.paradisum.io' to ALLOWED_HOSTS.
+[Thu Oct 07 00:22:30.568664 2021] [wsgi:error] [pid 207324] [remote 35.163.227.238:43867] Bad Request: /
+[Thu Oct 07 00:22:32.076932 2021] [wsgi:error] [pid 207324] [remote 108.244.58.79:54036] Invalid HTTP_HOST header: 'www.paradisum.io'. You may need to add 'www.paradisum.io' to ALLOWED_HOSTS.
+[Thu Oct 07 00:22:32.104847 2021] [wsgi:error] [pid 207324] [remote 108.244.58.79:54036] Bad Request: /
+[Thu Oct 07 00:22:33.005517 2021] [wsgi:error] [pid 207324] [remote 108.244.58.79:54042] Invalid HTTP_HOST header: 'www.paradisum.io'. You may need to add 'www.paradisum.io' to ALLOWED_HOSTS.
+[Thu Oct 07 00:22:33.034410 2021] [wsgi:error] [pid 207324] [remote 108.244.58.79:54042] Bad Request: /favicon.ico
+[Thu Oct 07 00:35:39.528922 2021] [wsgi:error] [pid 207324] [remote 54.68.162.175:43740] Invalid HTTP_HOST header: 'www.paradisum.io'. You may need to add 'www.paradisum.io' to ALLOWED_HOSTS.
+[Thu Oct 07 00:35:39.556779 2021] [wsgi:error] [pid 207324] [remote 54.68.162.175:43740] Bad Request: /
+Exception ignored in: <function Local.__del__ at 0x7fc2ae2450d0>
+Traceback (most recent call last):
+  File "/var/www/paradisum/paradisumenv/lib/python3.8/site-packages/asgiref/local.py", line 96, in __del__
+NameError: name 'TypeError' is not defined
+Exception ignored in: <function Local.__del__ at 0x7fc2ae2450d0>
+Traceback (most recent call last):
+  File "/var/www/paradisum/paradisumenv/lib/python3.8/site-packages/asgiref/local.py", line 96, in __del__
+NameError: name 'TypeError' is not defined
+Exception ignored in: <function BaseEventLoop.__del__ at 0x7f44b6916a60>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/base_events.py", line 654, in __del__
+NameError: name 'ResourceWarning' is not defined
+Exception ignored in: <function Local.__del__ at 0x7f44b68910d0>
+Traceback (most recent call last):
+  File "/var/www/paradisum/paradisumenv/lib/python3.8/site-packages/asgiref/local.py", line 96, in __del__
+NameError: name 'TypeError' is not defined
+[Fri Oct 08 04:56:48.719386 2021] [wsgi:error] [pid 216980] [remote 76.86.124.157:34967] Not Found: /.well-known/assetlinks.json
+[Fri Oct 08 05:55:00.096020 2021] [wsgi:error] [pid 216980] [remote 13.209.82.178:62228] Not Found: /robots.txt
+[Fri Oct 08 06:59:33.362189 2021] [wsgi:error] [pid 216980] [remote 172.58.28.194:49737] Not Found: /apple-touch-icon.png
+[Fri Oct 08 06:59:33.367757 2021] [wsgi:error] [pid 216980] [remote 172.58.28.194:36461] Not Found: /apple-touch-icon-precomposed.png
+[Fri Oct 08 06:59:33.371441 2021] [wsgi:error] [pid 216980] [remote 172.58.28.194:62923] Not Found: /favicon.ico
+[Fri Oct 08 08:15:29.714352 2021] [wsgi:error] [pid 216980] [remote 47.243.181.55:44440] Not Found: /robots.txt
+[Fri Oct 08 08:15:29.969834 2021] [wsgi:error] [pid 216980] [remote 47.243.181.55:44470] Not Found: /sitemap.xml
+[Fri Oct 08 08:15:40.802298 2021] [wsgi:error] [pid 216980] [remote 47.243.181.55:44856] Not Found: /robots.txt
+[Fri Oct 08 08:15:40.821897 2021] [wsgi:error] [pid 216980] [remote 47.243.181.55:44858] Not Found: /sitemap.xml
+[Fri Oct 08 12:20:28.856716 2021] [wsgi:error] [pid 216980] [remote 47.243.56.169:48830] Not Found: /robots.txt
+[Fri Oct 08 12:20:28.860843 2021] [wsgi:error] [pid 216980] [remote 47.243.56.169:48832] Not Found: /sitemap.xml
+[Fri Oct 08 22:44:50.990474 2021] [wsgi:error] [pid 216980] [remote 51.75.95.101:55926] Not Found: /ads.txt
+Exception ignored in: <function BaseEventLoop.__del__ at 0x7f44b69baa60>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/base_events.py", line 654, in __del__
+NameError: name 'ResourceWarning' is not defined
+Exception ignored in: <function Local.__del__ at 0x7f44b69350d0>
+Traceback (most recent call last):
+  File "/var/www/paradisum/paradisumenv/lib/python3.8/site-packages/asgiref/local.py", line 96, in __del__
+NameError: name 'TypeError' is not defined
+[Sat Oct 09 00:40:00.717085 2021] [wsgi:error] [pid 223935] [remote 123.58.210.165:55704] Not Found: /js/a.script
+[Sat Oct 09 00:40:01.056919 2021] [wsgi:error] [pid 223935] [remote 123.58.210.165:55704] Not Found: /user/userlist
+[Sat Oct 09 00:40:05.210705 2021] [wsgi:error] [pid 223935] [remote 123.58.210.165:55704] Not Found: /m/allticker/1
+[Sat Oct 09 00:40:05.533775 2021] [wsgi:error] [pid 223935] [remote 123.58.210.165:55704] Not Found: /nyyh/chkjs.js
+[Sat Oct 09 00:40:07.278464 2021] [wsgi:error] [pid 223935] [remote 123.58.210.165:33496] Not Found: /js/base1.js
+[Sat Oct 09 00:40:09.716355 2021] [wsgi:error] [pid 223935] [remote 123.58.210.165:33496] Not Found: /nyyh/game.css
+[Sat Oct 09 00:40:57.900995 2021] [wsgi:error] [pid 223935] [remote 123.58.210.165:33448] Not Found: /Home/Bind/binding
+[Sat Oct 09 00:41:29.478324 2021] [wsgi:error] [pid 223935] [remote 123.58.210.165:41476] Not Found: /assets/js/dmshub.js
+[Sat Oct 09 00:41:29.798271 2021] [wsgi:error] [pid 223935] [remote 123.58.210.165:36340] Not Found: /room/script/face.js
+[Sat Oct 09 00:41:31.683164 2021] [wsgi:error] [pid 223935] [remote 123.58.210.165:41476] Not Found: /skin/main/onload.js
+[Sat Oct 09 00:41:34.463266 2021] [wsgi:error] [pid 223935] [remote 123.58.210.165:41476] Not Found: /index/index/andiro
+[Sat Oct 09 00:41:35.653464 2021] [wsgi:error] [pid 223935] [remote 123.58.210.165:41476] Not Found: /api/index/webconfig
+[Sat Oct 09 00:41:58.629285 2021] [wsgi:error] [pid 223935] [remote 123.58.210.165:42056] Not Found: /api/app/config_new
+[Sat Oct 09 00:42:04.768782 2021] [wsgi:error] [pid 223935] [remote 123.58.210.165:41382] Not Found: /360/static/js/iku.js
+[Sat Oct 09 00:42:07.331824 2021] [wsgi:error] [pid 223935] [remote 123.58.210.165:41382] Not Found: /lanren/css/global.css
+[Sat Oct 09 00:42:47.903991 2021] [wsgi:error] [pid 223935] [remote 123.58.210.165:36762] Not Found: /resources/main/common.js
+[Sat Oct 09 00:42:48.180569 2021] [wsgi:error] [pid 223935] [remote 123.58.210.165:36762] Not Found: /assets/app-manifest.json
+[Sat Oct 09 00:42:51.157336 2021] [wsgi:error] [pid 223935] [remote 123.58.210.165:36762] Not Found: /s_api/basic/download/info
+[Sat Oct 09 00:42:51.884000 2021] [wsgi:error] [pid 223935] [remote 123.58.210.165:36762] Not Found: /Public/home/js/fukuang.js
+[Sat Oct 09 00:43:15.887579 2021] [wsgi:error] [pid 223935] [remote 123.58.210.165:58072] Not Found: /template/920ka/css/lsy.css
+[Sat Oct 09 00:43:16.246622 2021] [wsgi:error] [pid 223935] [remote 123.58.210.165:58072] Not Found: /portal/index/protocol.html
+[Sat Oct 09 00:43:32.764757 2021] [wsgi:error] [pid 223935] [remote 123.58.210.165:59196] Not Found: /views/commData/commonSite.js
+[Sat Oct 09 00:43:33.093659 2021] [wsgi:error] [pid 223935] [remote 123.58.210.165:59196] Not Found: /api/system/system/config/get
+[Sat Oct 09 01:50:29.242825 2021] [wsgi:error] [pid 223935] [remote 47.149.10.194:53615] Not Found: /apple-touch-icon-120x120-precomposed.png
+[Sat Oct 09 01:50:29.281024 2021] [wsgi:error] [pid 223935] [remote 47.149.10.194:53615] Not Found: /apple-touch-icon-120x120.png
+[Sat Oct 09 01:50:29.318831 2021] [wsgi:error] [pid 223935] [remote 47.149.10.194:53615] Not Found: /apple-touch-icon-precomposed.png
+[Sat Oct 09 01:50:29.356863 2021] [wsgi:error] [pid 223935] [remote 47.149.10.194:53615] Not Found: /apple-touch-icon.png
+Exception ignored in: <function BaseEventLoop.__del__ at 0x7f44b69baa60>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/base_events.py", line 654, in __del__
+NameError: name 'ResourceWarning' is not defined
+Exception ignored in: <function Local.__del__ at 0x7f44b69350d0>
+Traceback (most recent call last):
+  File "/var/www/paradisum/paradisumenv/lib/python3.8/site-packages/asgiref/local.py", line 96, in __del__
+NameError: name 'TypeError' is not defined
+Exception ignored in: <function BaseEventLoop.__del__ at 0x7f44b69baa60>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/base_events.py", line 654, in __del__
+NameError: name 'ResourceWarning' is not defined
+Exception ignored in: <function Local.__del__ at 0x7f44b69350d0>
+Traceback (most recent call last):
+  File "/var/www/paradisum/paradisumenv/lib/python3.8/site-packages/asgiref/local.py", line 96, in __del__
+NameError: name 'TypeError' is not defined
+[Mon Oct 11 03:13:48.001263 2021] [wsgi:error] [pid 237328] [remote 193.218.118.167:45800] Not Found: /.git/config
+[Mon Oct 11 03:13:48.861329 2021] [wsgi:error] [pid 237328] [remote 199.249.230.116:60390] Not Found: /.git/config
+[Mon Oct 11 03:13:51.003081 2021] [wsgi:error] [pid 237328] [remote 130.149.80.199:45016] Not Found: /.git/config
+[Mon Oct 11 03:13:51.216259 2021] [wsgi:error] [pid 237328] [remote 109.70.100.27:35221] Not Found: /.git/config
+[Mon Oct 11 14:47:52.825592 2021] [wsgi:error] [pid 237328] [remote 76.86.124.157:46360] Not Found: /.well-known/assetlinks.json
+Exception ignored in: <function BaseEventLoop.__del__ at 0x7f44b69baa60>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/base_events.py", line 654, in __del__
+NameError: name 'ResourceWarning' is not defined
+Exception ignored in: <function Local.__del__ at 0x7f44b69350d0>
+Traceback (most recent call last):
+  File "/var/www/paradisum/paradisumenv/lib/python3.8/site-packages/asgiref/local.py", line 96, in __del__
+NameError: name 'TypeError' is not defined
+Exception ignored in: <function BaseEventLoop.__del__ at 0x7f44b69baa60>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/base_events.py", line 654, in __del__
+NameError: name 'ResourceWarning' is not defined
+Exception ignored in: <function Local.__del__ at 0x7f44b69350d0>
+Traceback (most recent call last):
+  File "/var/www/paradisum/paradisumenv/lib/python3.8/site-packages/asgiref/local.py", line 96, in __del__
+NameError: name 'TypeError' is not defined
+Exception ignored in: <function BaseEventLoop.__del__ at 0x7f44b69baa60>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/base_events.py", line 654, in __del__
+NameError: name 'ResourceWarning' is not defined
+Exception ignored in: <function Local.__del__ at 0x7f44b69350d0>
+Traceback (most recent call last):
+  File "/var/www/paradisum/paradisumenv/lib/python3.8/site-packages/asgiref/local.py", line 96, in __del__
+NameError: name 'TypeError' is not defined
+Exception ignored in: <function BaseEventLoop.__del__ at 0x7f44b69baa60>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/base_events.py", line 654, in __del__
+NameError: name 'ResourceWarning' is not defined
+Exception ignored in: <function Local.__del__ at 0x7f44b69350d0>
+Traceback (most recent call last):
+  File "/var/www/paradisum/paradisumenv/lib/python3.8/site-packages/asgiref/local.py", line 96, in __del__
+NameError: name 'TypeError' is not defined
+Exception ignored in: <function BaseEventLoop.__del__ at 0x7f44b69baa60>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/base_events.py", line 654, in __del__
+NameError: name 'ResourceWarning' is not defined
+Exception ignored in: <function Local.__del__ at 0x7f44b69350d0>
+Traceback (most recent call last):
+  File "/var/www/paradisum/paradisumenv/lib/python3.8/site-packages/asgiref/local.py", line 96, in __del__
+NameError: name 'TypeError' is not defined
+[Sat Oct 16 17:36:02.248100 2021] [wsgi:error] [pid 273343] [remote 47.149.10.194:59902] Not Found: /autodiscover/autodiscover.xml
+[Sat Oct 16 19:04:02.876749 2021] [wsgi:error] [pid 273343] [remote 108.184.194.233:64906] Not Found: /autodiscover/autodiscover.xml
+Exception ignored in: <function BaseEventLoop.__del__ at 0x7f44b69baa60>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/base_events.py", line 654, in __del__
+NameError: name 'ResourceWarning' is not defined
+Exception ignored in: <function Local.__del__ at 0x7f44b69350d0>
+Traceback (most recent call last):
+  File "/var/www/paradisum/paradisumenv/lib/python3.8/site-packages/asgiref/local.py", line 96, in __del__
+NameError: name 'TypeError' is not defined
+[Sun Oct 17 03:11:44.954871 2021] [wsgi:error] [pid 280217] [remote 107.127.14.73:15351] Not Found: /apple-touch-icon-precomposed.png
+[Sun Oct 17 03:11:44.958014 2021] [wsgi:error] [pid 280217] [remote 107.127.14.73:15354] Not Found: /favicon.ico
+[Sun Oct 17 03:11:44.958867 2021] [wsgi:error] [pid 280217] [remote 107.127.14.73:15352] Not Found: /apple-touch-icon.png
+Exception ignored in: <function BaseEventLoop.__del__ at 0x7f44b69baa60>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/base_events.py", line 654, in __del__
+NameError: name 'ResourceWarning' is not defined
+Exception ignored in: <function Local.__del__ at 0x7f44b69350d0>
+Traceback (most recent call last):
+  File "/var/www/paradisum/paradisumenv/lib/python3.8/site-packages/asgiref/local.py", line 96, in __del__
+NameError: name 'TypeError' is not defined
+[Mon Oct 18 06:00:47.145367 2021] [wsgi:error] [pid 287075] [remote 52.125.128.12:7875] Not Found: /autodiscover/autodiscover.xml
+[Mon Oct 18 06:00:47.147322 2021] [wsgi:error] [pid 287075] [remote 52.125.128.12:7873] Not Found: /autodiscover/autodiscover.xml
+Exception ignored in: <function BaseEventLoop.__del__ at 0x7f44b69baa60>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/base_events.py", line 654, in __del__
+NameError: name 'ResourceWarning' is not defined
+Exception ignored in: <function Local.__del__ at 0x7f44b69350d0>
+Traceback (most recent call last):
+  File "/var/www/paradisum/paradisumenv/lib/python3.8/site-packages/asgiref/local.py", line 96, in __del__
+NameError: name 'TypeError' is not defined
+[Tue Oct 19 16:20:57.355451 2021] [wsgi:error] [pid 294308] [remote 5.196.197.68:38842] Not Found: /wp-login.php
+[Tue Oct 19 16:20:57.434552 2021] [wsgi:error] [pid 294308] [remote 5.196.197.68:38878] Not Found: /wp-login.php
+[Tue Oct 19 18:56:22.225909 2021] [wsgi:error] [pid 294308] [remote 104.160.43.196:38550] Not Found: /wp-login.php
+[Tue Oct 19 18:56:22.230672 2021] [wsgi:error] [pid 294308] [remote 104.160.43.196:38548] Not Found: /wp-login.php
+Exception ignored in: <function BaseEventLoop.__del__ at 0x7f44b69baa60>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/base_events.py", line 654, in __del__
+NameError: name 'ResourceWarning' is not defined
+Exception ignored in: <function Local.__del__ at 0x7f44b69350d0>
+Traceback (most recent call last):
+  File "/var/www/paradisum/paradisumenv/lib/python3.8/site-packages/asgiref/local.py", line 96, in __del__
+NameError: name 'TypeError' is not defined
+Exception ignored in: <function BaseEventLoop.__del__ at 0x7f44b69baa60>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/base_events.py", line 654, in __del__
+NameError: name 'ResourceWarning' is not defined
+Exception ignored in: <function Local.__del__ at 0x7f44b69350d0>
+Traceback (most recent call last):
+  File "/var/www/paradisum/paradisumenv/lib/python3.8/site-packages/asgiref/local.py", line 96, in __del__
+NameError: name 'TypeError' is not defined
+[Thu Oct 21 05:11:03.921904 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54326] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:24.749332 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:27.144688 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:27.539432 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:27.934390 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:28.321541 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:28.705315 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:29.088833 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:29.488729 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:29.870591 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:30.290581 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:30.668753 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:31.055030 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:31.446946 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:31.838649 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:32.217223 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:32.598319 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:32.979570 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:33.381173 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:33.769193 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:34.165724 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:34.569751 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:34.955252 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:35.328223 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:35.716290 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:36.102595 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:36.506134 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:36.903080 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:37.319318 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:37.747535 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:38.143809 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:38.539892 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:38.920103 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:39.294710 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:39.675921 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:40.080190 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:40.486021 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:40.871184 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:41.275004 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:41.657067 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:42.031633 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:42.413976 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:42.794489 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:43.180192 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:43.580988 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:43.977846 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:44.355104 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:44.740645 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:45.118879 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:45.710633 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:46.103009 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:46.486830 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:46.866107 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:47.249459 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:47.628479 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:48.021773 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:48.403420 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:48.781675 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:49.182095 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:49.570537 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:49.942553 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:50.365937 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:50.745370 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:51.124078 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:51.500819 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:51.878126 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:52.264962 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:52.651878 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:53.028940 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:53.405967 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:53.780837 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:54.181938 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:54.575125 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:54.953059 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:55.344058 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:55.724398 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:56.101231 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:56.507269 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:56.881787 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:57.258716 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:57.647886 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:58.029923 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:58.412198 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:58.801438 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:59.187122 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 05:11:59.589764 2021] [wsgi:error] [pid 315228] [remote 47.149.10.194:54421] Not Found: /autodiscover/autodiscover.xml
+Exception ignored in: <function BaseEventLoop.__del__ at 0x7f44b69baa60>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/base_events.py", line 654, in __del__
+NameError: name 'ResourceWarning' is not defined
+Exception ignored in: <function Local.__del__ at 0x7f44b69350d0>
+Traceback (most recent call last):
+  File "/var/www/paradisum/paradisumenv/lib/python3.8/site-packages/asgiref/local.py", line 96, in __del__
+NameError: name 'TypeError' is not defined
+[Thu Oct 21 09:50:40.270344 2021] [wsgi:error] [pid 318462] [remote 47.149.10.194:54361] Not Found: /autodiscover/autodiscover.xml
+[Thu Oct 21 13:24:03.693491 2021] [wsgi:error] [pid 318462] [remote 95.111.246.221:52612] Not Found: /wp-login.php
+Exception ignored in: <function Local.__del__ at 0x7ffa53b5c0d0>
+Traceback (most recent call last):
+  File "/var/www/paradisum/paradisumenv/lib/python3.8/site-packages/asgiref/local.py", line 96, in __del__
+NameError: name 'TypeError' is not defined
+[Fri Oct 22 03:26:13.098764 2021] [wsgi:error] [pid 324900] [remote 155.133.138.67:38596] Not Found: /wp-login.php
+Exception ignored in: <function BaseEventLoop.__del__ at 0x7ffa53c8aa60>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/base_events.py", line 654, in __del__
+NameError: name 'ResourceWarning' is not defined
+Exception ignored in: <function Local.__del__ at 0x7ffa53c050d0>
+Traceback (most recent call last):
+  File "/var/www/paradisum/paradisumenv/lib/python3.8/site-packages/asgiref/local.py", line 96, in __del__
+NameError: name 'TypeError' is not defined
+[Sat Oct 23 03:48:28.787262 2021] [wsgi:error] [pid 332742] [remote 64.37.52.2:47706] Not Found: /wp-login.php
+[Sat Oct 23 03:48:28.788701 2021] [wsgi:error] [pid 332742] [remote 64.37.52.2:47708] Not Found: /wp-login.php
+[Sat Oct 23 08:19:08.133093 2021] [wsgi:error] [pid 332742] [remote 110.170.163.67:19451] Not Found: /wp-login.php
+[Sat Oct 23 08:19:08.135499 2021] [wsgi:error] [pid 332742] [remote 110.170.163.67:5018] Not Found: /wp-login.php
+[Sat Oct 23 23:00:42.934216 2021] [wsgi:error] [pid 332742] [remote 47.149.10.194:63382] Not Found: /autodiscover/autodiscover.xml
+Exception ignored in: <function BaseEventLoop.__del__ at 0x7ffa53c78a60>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/base_events.py", line 654, in __del__
+NameError: name 'ResourceWarning' is not defined
+Exception ignored in: <function Local.__del__ at 0x7ffa53bf30d0>
+Traceback (most recent call last):
+  File "/var/www/paradisum/paradisumenv/lib/python3.8/site-packages/asgiref/local.py", line 96, in __del__
+NameError: name 'TypeError' is not defined
+[Sun Oct 24 00:01:37.789747 2021] [wsgi:error] [pid 341072] [remote 47.149.10.194:64523] Not Found: /autodiscover/autodiscover.xml
+[Sun Oct 24 01:02:50.358493 2021] [wsgi:error] [pid 341072] [remote 47.149.10.194:64963] Not Found: /autodiscover/autodiscover.xml
+[Sun Oct 24 02:04:36.296697 2021] [wsgi:error] [pid 341072] [remote 47.149.10.194:65394] Not Found: /autodiscover/autodiscover.xml
+[Sun Oct 24 03:06:24.347756 2021] [wsgi:error] [pid 341072] [remote 47.149.10.194:49555] Not Found: /autodiscover/autodiscover.xml
+[Sun Oct 24 04:07:43.921456 2021] [wsgi:error] [pid 341072] [remote 47.149.10.194:50040] Not Found: /autodiscover/autodiscover.xml
+[Sun Oct 24 05:09:56.827561 2021] [wsgi:error] [pid 341072] [remote 47.149.10.194:50537] Not Found: /autodiscover/autodiscover.xml
+[Sun Oct 24 06:11:45.922540 2021] [wsgi:error] [pid 341072] [remote 47.149.10.194:51005] Not Found: /autodiscover/autodiscover.xml
+[Sun Oct 24 07:13:42.642660 2021] [wsgi:error] [pid 341072] [remote 47.149.10.194:51469] Not Found: /autodiscover/autodiscover.xml
+[Sun Oct 24 08:15:32.336688 2021] [wsgi:error] [pid 341072] [remote 47.149.10.194:52324] Not Found: /autodiscover/autodiscover.xml
+[Sun Oct 24 09:17:28.680654 2021] [wsgi:error] [pid 341072] [remote 47.149.10.194:53211] Not Found: /autodiscover/autodiscover.xml
+[Sun Oct 24 10:19:31.355224 2021] [wsgi:error] [pid 341072] [remote 47.149.10.194:53943] Not Found: /autodiscover/autodiscover.xml
+[Sun Oct 24 11:21:23.735884 2021] [wsgi:error] [pid 341072] [remote 47.149.10.194:54783] Not Found: /autodiscover/autodiscover.xml
+[Sun Oct 24 12:23:20.983293 2021] [wsgi:error] [pid 341072] [remote 47.149.10.194:55572] Not Found: /autodiscover/autodiscover.xml
+[Sun Oct 24 13:25:18.694745 2021] [wsgi:error] [pid 341072] [remote 47.149.10.194:56523] Not Found: /autodiscover/autodiscover.xml
+[Sun Oct 24 14:27:08.529373 2021] [wsgi:error] [pid 341072] [remote 47.149.10.194:57211] Not Found: /autodiscover/autodiscover.xml
+[Sun Oct 24 15:28:56.005509 2021] [wsgi:error] [pid 341072] [remote 47.149.10.194:58095] Not Found: /autodiscover/autodiscover.xml
+[Sun Oct 24 16:30:44.008508 2021] [wsgi:error] [pid 341072] [remote 47.149.10.194:58852] Not Found: /autodiscover/autodiscover.xml
+[Sun Oct 24 17:32:47.244079 2021] [wsgi:error] [pid 341072] [remote 47.149.10.194:59329] Not Found: /autodiscover/autodiscover.xml
+[Sun Oct 24 18:34:40.379061 2021] [wsgi:error] [pid 341072] [remote 47.149.10.194:59802] Not Found: /autodiscover/autodiscover.xml
+[Sun Oct 24 19:36:38.621740 2021] [wsgi:error] [pid 341072] [remote 47.149.10.194:60265] Not Found: /autodiscover/autodiscover.xml
+[Sun Oct 24 20:38:41.140171 2021] [wsgi:error] [pid 341072] [remote 47.149.10.194:60716] Not Found: /autodiscover/autodiscover.xml
+[Sun Oct 24 21:39:59.328151 2021] [wsgi:error] [pid 341072] [remote 47.149.10.194:61274] Not Found: /autodiscover/autodiscover.xml
+[Sun Oct 24 22:40:43.192144 2021] [wsgi:error] [pid 341072] [remote 47.149.10.194:61857] Not Found: /autodiscover/autodiscover.xml
+[Sun Oct 24 23:56:54.152606 2021] [wsgi:error] [pid 341072] [remote 47.149.10.194:62733] Not Found: /autodiscover/autodiscover.xml
+Exception ignored in: <function BaseEventLoop.__del__ at 0x7ffa53c8aa60>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/base_events.py", line 654, in __del__
+NameError: name 'ResourceWarning' is not defined
+Exception ignored in: <function Local.__del__ at 0x7ffa53c040d0>
+Traceback (most recent call last):
+  File "/var/www/paradisum/paradisumenv/lib/python3.8/site-packages/asgiref/local.py", line 96, in __del__
+NameError: name 'TypeError' is not defined
+[Mon Oct 25 00:58:48.029878 2021] [wsgi:error] [pid 347870] [remote 47.149.10.194:63218] Not Found: /autodiscover/autodiscover.xml
+[Mon Oct 25 02:00:37.319198 2021] [wsgi:error] [pid 347870] [remote 47.149.10.194:63746] Not Found: /autodiscover/autodiscover.xml
+[Mon Oct 25 03:02:33.331356 2021] [wsgi:error] [pid 347870] [remote 47.149.10.194:64345] Not Found: /autodiscover/autodiscover.xml
+[Mon Oct 25 04:04:36.009314 2021] [wsgi:error] [pid 347870] [remote 47.149.10.194:64832] Not Found: /autodiscover/autodiscover.xml
+[Mon Oct 25 05:06:07.469908 2021] [wsgi:error] [pid 347870] [remote 47.149.10.194:65381] Not Found: /autodiscover/autodiscover.xml
+[Mon Oct 25 06:08:15.730558 2021] [wsgi:error] [pid 347870] [remote 47.149.10.194:49481] Not Found: /autodiscover/autodiscover.xml
+[Mon Oct 25 06:49:15.978088 2021] [wsgi:error] [pid 347870] [remote 172.104.61.202:53856] Not Found: /wp-login.php
+[Mon Oct 25 06:49:16.014216 2021] [wsgi:error] [pid 347870] [remote 172.104.61.202:53872] Not Found: /wp-login.php
+[Mon Oct 25 07:10:02.314719 2021] [wsgi:error] [pid 347870] [remote 47.149.10.194:49976] Not Found: /autodiscover/autodiscover.xml
+[Mon Oct 25 08:11:57.743689 2021] [wsgi:error] [pid 347870] [remote 47.149.10.194:50466] Not Found: /autodiscover/autodiscover.xml
+[Mon Oct 25 09:13:46.418513 2021] [wsgi:error] [pid 347870] [remote 47.149.10.194:51505] Not Found: /autodiscover/autodiscover.xml
+[Mon Oct 25 10:15:41.044651 2021] [wsgi:error] [pid 347870] [remote 47.149.10.194:52181] Not Found: /autodiscover/autodiscover.xml
+[Mon Oct 25 11:08:11.255868 2021] [wsgi:error] [pid 347870] [remote 138.219.231.69:57754] Not Found: /wp-login.php
+[Mon Oct 25 11:08:11.260274 2021] [wsgi:error] [pid 347870] [remote 138.219.231.69:57756] Not Found: /wp-login.php
+[Mon Oct 25 11:17:41.597631 2021] [wsgi:error] [pid 347870] [remote 47.149.10.194:52992] Not Found: /autodiscover/autodiscover.xml
+[Mon Oct 25 12:19:41.027606 2021] [wsgi:error] [pid 347870] [remote 47.149.10.194:53774] Not Found: /autodiscover/autodiscover.xml
+[Mon Oct 25 13:21:34.487460 2021] [wsgi:error] [pid 347870] [remote 47.149.10.194:54552] Not Found: /autodiscover/autodiscover.xml
+[Mon Oct 25 14:23:20.854473 2021] [wsgi:error] [pid 347870] [remote 47.149.10.194:55406] Not Found: /autodiscover/autodiscover.xml
+[Mon Oct 25 15:25:15.086685 2021] [wsgi:error] [pid 347870] [remote 47.149.10.194:56032] Not Found: /autodiscover/autodiscover.xml
+[Mon Oct 25 16:27:09.685029 2021] [wsgi:error] [pid 347870] [remote 47.149.10.194:56513] Not Found: /autodiscover/autodiscover.xml
+[Mon Oct 25 17:28:57.338350 2021] [wsgi:error] [pid 347870] [remote 47.149.10.194:56974] Not Found: /autodiscover/autodiscover.xml
+[Mon Oct 25 18:30:46.520826 2021] [wsgi:error] [pid 347870] [remote 47.149.10.194:55074] Not Found: /autodiscover/autodiscover.xml
+[Mon Oct 25 19:32:38.441670 2021] [wsgi:error] [pid 347870] [remote 47.149.10.194:57910] Not Found: /autodiscover/autodiscover.xml
+[Mon Oct 25 20:30:54.639896 2021] [wsgi:error] [pid 347870] [remote 44.242.154.32:45346] Not Found: /robots.txt
+[Mon Oct 25 20:34:39.340264 2021] [wsgi:error] [pid 347870] [remote 47.149.10.194:58396] Not Found: /autodiscover/autodiscover.xml
+[Mon Oct 25 21:36:34.115412 2021] [wsgi:error] [pid 347870] [remote 47.149.10.194:58853] Not Found: /autodiscover/autodiscover.xml
+[Mon Oct 25 22:38:20.754254 2021] [wsgi:error] [pid 347870] [remote 47.149.10.194:59297] Not Found: /autodiscover/autodiscover.xml
+[Mon Oct 25 23:40:25.401647 2021] [wsgi:error] [pid 347870] [remote 47.149.10.194:59821] Not Found: /autodiscover/autodiscover.xml
+Exception ignored in: <function BaseEventLoop.__del__ at 0x7ffa53c8aa60>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/base_events.py", line 654, in __del__
+NameError: name 'ResourceWarning' is not defined
+Exception ignored in: <function Local.__del__ at 0x7ffa53c050d0>
+Traceback (most recent call last):
+  File "/var/www/paradisum/paradisumenv/lib/python3.8/site-packages/asgiref/local.py", line 96, in __del__
+NameError: name 'TypeError' is not defined
+[Tue Oct 26 00:42:17.069248 2021] [wsgi:error] [pid 354832] [remote 47.149.10.194:60276] Not Found: /autodiscover/autodiscover.xml
+[Tue Oct 26 01:43:17.253954 2021] [wsgi:error] [pid 354832] [remote 47.149.10.194:60847] Not Found: /autodiscover/autodiscover.xml
+[Tue Oct 26 02:45:12.564133 2021] [wsgi:error] [pid 354832] [remote 47.149.10.194:61386] Not Found: /autodiscover/autodiscover.xml
+[Tue Oct 26 03:46:12.808235 2021] [wsgi:error] [pid 354832] [remote 47.149.10.194:62181] Not Found: /autodiscover/autodiscover.xml
+[Tue Oct 26 04:46:15.046152 2021] [wsgi:error] [pid 354832] [remote 47.149.10.194:63506] Not Found: /autodiscover/autodiscover.xml
+[Tue Oct 26 05:46:18.613783 2021] [wsgi:error] [pid 354832] [remote 47.149.10.194:64640] Not Found: /autodiscover/autodiscover.xml
+[Tue Oct 26 06:46:19.816614 2021] [wsgi:error] [pid 354832] [remote 47.149.10.194:49476] Not Found: /autodiscover/autodiscover.xml
+[Tue Oct 26 07:46:21.451194 2021] [wsgi:error] [pid 354832] [remote 47.149.10.194:50457] Not Found: /autodiscover/autodiscover.xml
+[Tue Oct 26 08:46:24.954730 2021] [wsgi:error] [pid 354832] [remote 47.149.10.194:51599] Not Found: /autodiscover/autodiscover.xml
+[Tue Oct 26 10:35:00.330179 2021] [wsgi:error] [pid 354832] [remote 47.149.10.194:52954] Not Found: /autodiscover/autodiscover.xml
+[Tue Oct 26 11:36:58.093147 2021] [wsgi:error] [pid 354832] [remote 47.149.10.194:53490] Not Found: /autodiscover/autodiscover.xml
+[Tue Oct 26 12:39:04.471548 2021] [wsgi:error] [pid 354832] [remote 47.149.10.194:54086] Not Found: /autodiscover/autodiscover.xml
+[Tue Oct 26 13:40:52.840932 2021] [wsgi:error] [pid 354832] [remote 47.149.10.194:55108] Not Found: /autodiscover/autodiscover.xml
+[Tue Oct 26 14:42:42.464337 2021] [wsgi:error] [pid 354832] [remote 47.149.10.194:55910] Not Found: /autodiscover/autodiscover.xml
+[Tue Oct 26 15:44:34.962378 2021] [wsgi:error] [pid 354832] [remote 47.149.10.194:56795] Not Found: /autodiscover/autodiscover.xml
+[Tue Oct 26 16:46:30.459376 2021] [wsgi:error] [pid 354832] [remote 47.149.10.194:57657] Not Found: /autodiscover/autodiscover.xml
+[Tue Oct 26 17:48:19.776246 2021] [wsgi:error] [pid 354832] [remote 47.149.10.194:58181] Not Found: /autodiscover/autodiscover.xml
+[Tue Oct 26 18:50:07.557925 2021] [wsgi:error] [pid 354832] [remote 47.149.10.194:58710] Not Found: /autodiscover/autodiscover.xml
+Exception ignored in: <function BaseEventLoop.__del__ at 0x7ffa53c8aa60>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/base_events.py", line 654, in __del__
+NameError: name 'ResourceWarning' is not defined
+Exception ignored in: <function Local.__del__ at 0x7ffa53c050d0>
+Traceback (most recent call last):
+  File "/var/www/paradisum/paradisumenv/lib/python3.8/site-packages/asgiref/local.py", line 96, in __del__
+NameError: name 'TypeError' is not defined
+[Wed Oct 27 21:15:45.049720 2021] [wsgi:error] [pid 362454] [remote 38.107.221.192:60872] Not Found: /wp-login.php
+[Wed Oct 27 21:15:45.051535 2021] [wsgi:error] [pid 362454] [remote 38.107.221.192:60874] Not Found: /wp-login.php
+Exception ignored in: <function BaseEventLoop.__del__ at 0x7ffa53c8aa60>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/base_events.py", line 654, in __del__
+NameError: name 'ResourceWarning' is not defined
+Exception ignored in: <function Local.__del__ at 0x7ffa53c050d0>
+Traceback (most recent call last):
+  File "/var/www/paradisum/paradisumenv/lib/python3.8/site-packages/asgiref/local.py", line 96, in __del__
+NameError: name 'TypeError' is not defined
+[Thu Oct 28 05:07:30.160591 2021] [wsgi:error] [pid 372181] [remote 64.111.109.226:34568] Not Found: /wp-login.php
+[Thu Oct 28 05:07:30.246664 2021] [wsgi:error] [pid 372181] [remote 64.111.109.226:34586] Not Found: /wp-login.php
+Exception ignored in: <function BaseEventLoop.__del__ at 0x7ffa53c8aa60>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/base_events.py", line 654, in __del__
+NameError: name 'ResourceWarning' is not defined
+Exception ignored in: <function Local.__del__ at 0x7ffa53c050d0>
+Traceback (most recent call last):
+  File "/var/www/paradisum/paradisumenv/lib/python3.8/site-packages/asgiref/local.py", line 96, in __del__
+NameError: name 'TypeError' is not defined
+[Fri Oct 29 04:07:20.634029 2021] [wsgi:error] [pid 379293] [remote 100.21.218.158:31773] Not Found: /robots.txt
+[Fri Oct 29 07:21:56.357817 2021] [wsgi:error] [pid 379293] [remote 149.56.150.3:15247] Not Found: /robots.txt
+[Fri Oct 29 07:21:56.570669 2021] [wsgi:error] [pid 379293] [remote 149.56.150.3:4009] Not Found: /sitemap.xml
+[Fri Oct 29 07:21:57.793183 2021] [wsgi:error] [pid 379293] [remote 149.56.150.3:23305] Not Found: /ads.txt
+[Fri Oct 29 17:53:02.979068 2021] [wsgi:error] [pid 379293] [remote 45.119.213.225:57218] Not Found: /wp-login.php
+[Fri Oct 29 19:20:25.698936 2021] [wsgi:error] [pid 379293] [remote 113.190.234.44:54865] Not Found: /wp-login.php
+Exception ignored in: <function BaseEventLoop.__del__ at 0x7ffa53c8aa60>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/base_events.py", line 654, in __del__
+NameError: name 'ResourceWarning' is not defined
+Exception ignored in: <function Local.__del__ at 0x7ffa53c050d0>
+Traceback (most recent call last):
+  File "/var/www/paradisum/paradisumenv/lib/python3.8/site-packages/asgiref/local.py", line 96, in __del__
+NameError: name 'TypeError' is not defined
+Exception ignored in: <function BaseEventLoop.__del__ at 0x7ffa53c8aa60>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/base_events.py", line 654, in __del__
+NameError: name 'ResourceWarning' is not defined
+Exception ignored in: <function Local.__del__ at 0x7ffa53c050d0>
+Traceback (most recent call last):
+  File "/var/www/paradisum/paradisumenv/lib/python3.8/site-packages/asgiref/local.py", line 96, in __del__
+NameError: name 'TypeError' is not defined
+[Mon Nov 01 02:11:47.952237 2021] [wsgi:error] [pid 410178] [remote 93.158.90.66:6951] Not Found: /robots.txt
+[Mon Nov 01 02:11:49.065541 2021] [wsgi:error] [pid 410178] [remote 93.158.90.68:6003] Not Found: /humans.txt
+[Mon Nov 01 02:11:50.250107 2021] [wsgi:error] [pid 410178] [remote 93.158.90.67:24865] Not Found: /ads.txt
+[Mon Nov 01 03:24:46.571452 2021] [wsgi:error] [pid 410178] [remote 167.71.21.233:56662] Not Found: /wp-login.php
+Exception ignored in: <function Local.__del__ at 0x7ffa53c050d0>
+Traceback (most recent call last):
+  File "/var/www/paradisum/paradisumenv/lib/python3.8/site-packages/asgiref/local.py", line 96, in __del__
+NameError: name 'TypeError' is not defined
+[Tue Nov 02 18:46:59.795291 2021] [wsgi:error] [pid 417236] [remote 96.125.171.153:45368] Not Found: /wp-login.php
+Exception ignored in: <function BaseEventLoop.__del__ at 0x7ffa53c8aa60>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/base_events.py", line 654, in __del__
+NameError: name 'ResourceWarning' is not defined
+Exception ignored in: <function Local.__del__ at 0x7ffa53c050d0>
+Traceback (most recent call last):
+  File "/var/www/paradisum/paradisumenv/lib/python3.8/site-packages/asgiref/local.py", line 96, in __del__
+NameError: name 'TypeError' is not defined
+[Wed Nov 03 02:06:28.259830 2021] [wsgi:error] [pid 425486] [remote 197.155.158.21:56044] Not Found: /wp-login.php
+[Wed Nov 03 08:53:53.843573 2021] [wsgi:error] [pid 425486] [remote 156.146.41.82:51130] Not Found: /index.php/admin/
+[Wed Nov 03 08:53:54.708455 2021] [wsgi:error] [pid 425486] [remote 156.146.41.82:53416] Not Found: /dev/index.php/admin/
+[Wed Nov 03 08:54:00.557083 2021] [wsgi:error] [pid 425486] [remote 156.146.41.82:39420] Not Found: /old/index.php/admin/
+[Wed Nov 03 08:54:26.578967 2021] [wsgi:error] [pid 425486] [remote 156.146.41.82:45408] Not Found: /demo/index.php/admin/
+[Wed Nov 03 08:54:37.408967 2021] [wsgi:error] [pid 425486] [remote 156.146.41.82:43600] Not Found: /shop/index.php/admin/
+[Wed Nov 03 08:54:53.347939 2021] [wsgi:error] [pid 425486] [remote 156.146.41.82:53220] Not Found: /test/index.php/admin/
+[Wed Nov 03 08:54:54.249220 2021] [wsgi:error] [pid 425486] [remote 156.146.41.82:55540] Not Found: /store/index.php/admin/
+[Wed Nov 03 08:55:00.095233 2021] [wsgi:error] [pid 425486] [remote 156.146.41.82:41266] Not Found: /magento/index.php/admin/
+[Wed Nov 03 08:55:00.901480 2021] [wsgi:error] [pid 425486] [remote 156.146.41.82:43312] Not Found: /staging/index.php/admin/
+[Wed Nov 03 08:55:21.891486 2021] [wsgi:error] [pid 425486] [remote 156.146.41.82:36544] Not Found: /rss/order/new
+[Wed Nov 03 08:55:22.711023 2021] [wsgi:error] [pid 425486] [remote 156.146.41.82:38502] Not Found: /rss/catalog/notifystock
+[Wed Nov 03 08:55:23.539357 2021] [wsgi:error] [pid 425486] [remote 156.146.41.82:40612] Not Found: /rss/catalog/review
+[Wed Nov 03 08:55:24.363602 2021] [wsgi:error] [pid 425486] [remote 156.146.41.82:42636] Not Found: /dev/rss/order/new
+[Wed Nov 03 08:55:30.260642 2021] [wsgi:error] [pid 425486] [remote 156.146.41.82:56476] Not Found: /dev/rss/catalog/notifystock
+[Wed Nov 03 08:55:31.086456 2021] [wsgi:error] [pid 425486] [remote 156.146.41.82:58574] Not Found: /dev/rss/catalog/review
+[Wed Nov 03 08:55:36.963654 2021] [wsgi:error] [pid 425486] [remote 156.146.41.82:44806] Not Found: /old/rss/order/new
+[Wed Nov 03 08:55:37.766939 2021] [wsgi:error] [pid 425486] [remote 156.146.41.82:46920] Not Found: /old/rss/catalog/notifystock
+[Wed Nov 03 08:55:43.593208 2021] [wsgi:error] [pid 425486] [remote 156.146.41.82:60888] Not Found: /old/rss/catalog/review
+[Wed Nov 03 08:55:44.406568 2021] [wsgi:error] [pid 425486] [remote 156.146.41.82:34532] Not Found: /demo/rss/order/new
+[Wed Nov 03 08:55:45.274020 2021] [wsgi:error] [pid 425486] [remote 156.146.41.82:36658] Not Found: /demo/rss/catalog/notifystock
+[Wed Nov 03 08:55:46.085868 2021] [wsgi:error] [pid 425486] [remote 156.146.41.82:38806] Not Found: /demo/rss/catalog/review
+[Wed Nov 03 08:55:51.914482 2021] [wsgi:error] [pid 425486] [remote 156.146.41.82:52544] Not Found: /shop/rss/order/new
+[Wed Nov 03 08:55:52.736497 2021] [wsgi:error] [pid 425486] [remote 156.146.41.82:54428] Not Found: /shop/rss/catalog/notifystock
+[Wed Nov 03 08:55:53.569240 2021] [wsgi:error] [pid 425486] [remote 156.146.41.82:56430] Not Found: /shop/rss/catalog/review
+[Wed Nov 03 08:56:24.692288 2021] [wsgi:error] [pid 425486] [remote 156.146.41.82:46148] Not Found: /test/rss/order/new
+[Wed Nov 03 08:56:30.511963 2021] [wsgi:error] [pid 425486] [remote 156.146.41.82:59946] Not Found: /test/rss/catalog/notifystock
+[Wed Nov 03 08:56:31.339757 2021] [wsgi:error] [pid 425486] [remote 156.146.41.82:33664] Not Found: /test/rss/catalog/review
+[Wed Nov 03 08:56:32.159401 2021] [wsgi:error] [pid 425486] [remote 156.146.41.82:35632] Not Found: /store/rss/order/new
+[Wed Nov 03 08:56:32.977386 2021] [wsgi:error] [pid 425486] [remote 156.146.41.82:37726] Not Found: /store/rss/catalog/notifystock
+[Wed Nov 03 08:56:38.785662 2021] [wsgi:error] [pid 425486] [remote 156.146.41.82:51844] Not Found: /store/rss/catalog/review
+[Wed Nov 03 08:56:44.629243 2021] [wsgi:error] [pid 425486] [remote 156.146.41.82:37436] Not Found: /magento/rss/order/new
+[Wed Nov 03 08:56:50.458694 2021] [wsgi:error] [pid 425486] [remote 156.146.41.82:51290] Not Found: /magento/rss/catalog/notifystock
+[Wed Nov 03 08:56:51.338051 2021] [wsgi:error] [pid 425486] [remote 156.146.41.82:53248] Not Found: /magento/rss/catalog/review
+[Wed Nov 03 08:56:52.214065 2021] [wsgi:error] [pid 425486] [remote 156.146.41.82:55240] Not Found: /staging/rss/order/new
+[Wed Nov 03 08:56:53.019153 2021] [wsgi:error] [pid 425486] [remote 156.146.41.82:57218] Not Found: /staging/rss/catalog/notifystock
+[Wed Nov 03 08:56:53.858831 2021] [wsgi:error] [pid 425486] [remote 156.146.41.82:59218] Not Found: /staging/rss/catalog/review
+[Wed Nov 03 08:56:54.676948 2021] [wsgi:error] [pid 425486] [remote 156.146.41.82:33048] Not Found: /downloader/index.php
+[Wed Nov 03 08:56:55.494951 2021] [wsgi:error] [pid 425486] [remote 156.146.41.82:35040] Not Found: /dev/downloader/index.php
+[Wed Nov 03 08:57:01.338335 2021] [wsgi:error] [pid 425486] [remote 156.146.41.82:48892] Not Found: /old/downloader/index.php
+[Wed Nov 03 08:57:07.162439 2021] [wsgi:error] [pid 425486] [remote 156.146.41.82:34526] Not Found: /demo/downloader/index.php
+[Wed Nov 03 08:57:08.001739 2021] [wsgi:error] [pid 425486] [remote 156.146.41.82:36584] Not Found: /shop/downloader/index.php
+[Wed Nov 03 08:57:08.812584 2021] [wsgi:error] [pid 425486] [remote 156.146.41.82:38542] Not Found: /test/downloader/index.php
+[Wed Nov 03 08:57:09.644737 2021] [wsgi:error] [pid 425486] [remote 156.146.41.82:40574] Not Found: /store/downloader/index.php
+[Wed Nov 03 08:57:10.458412 2021] [wsgi:error] [pid 425486] [remote 156.146.41.82:42556] Not Found: /magento/downloader/index.php
+[Wed Nov 03 08:57:16.328081 2021] [wsgi:error] [pid 425486] [remote 156.146.41.82:56486] Not Found: /staging/downloader/index.php
+[Wed Nov 03 08:57:22.760562 2021] [wsgi:error] [pid 425486] [remote 156.146.41.82:42034] Not Found: /errors/503.php
+[Wed Nov 03 08:57:28.583826 2021] [wsgi:error] [pid 425486] [remote 156.146.41.82:57422] Not Found: /dev/errors/503.php
+[Wed Nov 03 08:57:29.462614 2021] [wsgi:error] [pid 425486] [remote 156.146.41.82:59488] Not Found: /old/errors/503.php
+[Wed Nov 03 08:57:30.334389 2021] [wsgi:error] [pid 425486] [remote 156.146.41.82:33244] Not Found: /demo/errors/503.php
+[Wed Nov 03 08:57:36.144533 2021] [wsgi:error] [pid 425486] [remote 156.146.41.82:47192] Not Found: /shop/errors/503.php
+[Wed Nov 03 08:57:46.982802 2021] [wsgi:error] [pid 425486] [remote 156.146.41.82:44848] Not Found: /test/errors/503.php
+[Wed Nov 03 08:57:47.798272 2021] [wsgi:error] [pid 425486] [remote 156.146.41.82:46746] Not Found: /store/errors/503.php
+[Wed Nov 03 08:57:58.624233 2021] [wsgi:error] [pid 425486] [remote 156.146.41.82:44290] Not Found: /magento/errors/503.php
+[Wed Nov 03 08:57:59.428332 2021] [wsgi:error] [pid 425486] [remote 156.146.41.82:46188] Not Found: /staging/errors/503.php
+Exception ignored in: <function Local.__del__ at 0x7ffa53c050d0>
+Traceback (most recent call last):
+  File "/var/www/paradisum/paradisumenv/lib/python3.8/site-packages/asgiref/local.py", line 96, in __del__
+NameError: name 'TypeError' is not defined
+[Thu Nov 04 03:52:02.895706 2021] [wsgi:error] [pid 432512] [remote 47.103.7.201:36210] Not Found: /wp-login.php
+[Thu Nov 04 03:52:02.897160 2021] [wsgi:error] [pid 432512] [remote 47.103.7.201:36212] Not Found: /wp-login.php
+[Thu Nov 04 08:52:03.702493 2021] [wsgi:error] [pid 432512] [remote 161.97.178.213:50838] Not Found: /wp-login.php
+Exception ignored in: <function BaseEventLoop.__del__ at 0x7ffa53c78a60>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/base_events.py", line 654, in __del__
+NameError: name 'ResourceWarning' is not defined
+Exception ignored in: <function Local.__del__ at 0x7ffa53bf30d0>
+Traceback (most recent call last):
+  File "/var/www/paradisum/paradisumenv/lib/python3.8/site-packages/asgiref/local.py", line 96, in __del__
+NameError: name 'TypeError' is not defined
+[Fri Nov 05 05:28:18.403927 2021] [wsgi:error] [pid 440889] [remote 47.149.10.194:58818] Not Found: /autodiscover/autodiscover.xml
+[Fri Nov 05 06:30:18.965581 2021] [wsgi:error] [pid 440889] [remote 47.149.10.194:59305] Not Found: /autodiscover/autodiscover.xml
+[Fri Nov 05 07:32:06.782703 2021] [wsgi:error] [pid 440889] [remote 47.149.10.194:59887] Not Found: /autodiscover/autodiscover.xml
+Exception ignored in: <function Local.__del__ at 0x7ffa53c050d0>
+Traceback (most recent call last):
+  File "/var/www/paradisum/paradisumenv/lib/python3.8/site-packages/asgiref/local.py", line 96, in __del__
+NameError: name 'TypeError' is not defined
+[Sat Nov 06 19:32:28.600454 2021] [wsgi:error] [pid 451433] [remote 185.67.1.42:32368] Not Found: /wp-login.php
+[Sat Nov 06 19:32:29.313300 2021] [wsgi:error] [pid 451433] [remote 185.67.1.42:32362] Not Found: /wp-login.php
+Exception ignored in: <function BaseEventLoop.__del__ at 0x7ffa53c8aa60>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/base_events.py", line 654, in __del__
+NameError: name 'ResourceWarning' is not defined
+Exception ignored in: <function Local.__del__ at 0x7ffa53c050d0>
+Traceback (most recent call last):
+  File "/var/www/paradisum/paradisumenv/lib/python3.8/site-packages/asgiref/local.py", line 96, in __del__
+NameError: name 'TypeError' is not defined
+[Sun Nov 07 02:29:40.560488 2021] [wsgi:error] [pid 459771] [remote 191.234.176.158:45466] Not Found: /wp-login.php
+[Sun Nov 07 13:58:11.378296 2021] [wsgi:error] [pid 459771] [remote 47.149.10.194:65229] Not Found: /autodiscover/autodiscover.xml
+[Sun Nov 07 18:01:22.889320 2021] [wsgi:error] [pid 459771] [remote 134.71.249.155:31261] Not Found: /autodiscover/autodiscover.xml
+[Sun Nov 07 19:07:02.181321 2021] [wsgi:error] [pid 459771] [remote 185.114.247.54:46480] Not Found: /wp-login.php
+[Sun Nov 07 19:07:02.205063 2021] [wsgi:error] [pid 459771] [remote 185.114.247.54:46482] Not Found: /wp-login.php
+Exception ignored in: <function Local.__del__ at 0x7ffa53c050d0>
+Traceback (most recent call last):
+  File "/var/www/paradisum/paradisumenv/lib/python3.8/site-packages/asgiref/local.py", line 96, in __del__
+NameError: name 'TypeError' is not defined
+[Mon Nov 08 04:22:15.565217 2021] [wsgi:error] [pid 467693] [remote 142.93.253.189:58574] Not Found: /wp-login.php
+Exception ignored in: <function BaseEventLoop.__del__ at 0x7ffa53c8aa60>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/base_events.py", line 654, in __del__
+NameError: name 'ResourceWarning' is not defined
+Exception ignored in: <function Local.__del__ at 0x7ffa53c050d0>
+Traceback (most recent call last):
+  File "/var/www/paradisum/paradisumenv/lib/python3.8/site-packages/asgiref/local.py", line 96, in __del__
+NameError: name 'TypeError' is not defined
+[Tue Nov 09 03:47:40.165657 2021] [wsgi:error] [pid 476170] [remote 62.109.11.92:33574] Not Found: /wp-login.php
+[Tue Nov 09 03:47:40.167170 2021] [wsgi:error] [pid 476170] [remote 62.109.11.92:33588] Not Found: /wp-login.php
+[Tue Nov 09 19:46:39.825182 2021] [wsgi:error] [pid 476170] [remote 64.69.155.33:62388] Not Found: /autodiscover/autodiscover.xml
+[Tue Nov 09 20:56:29.217094 2021] [wsgi:error] [pid 476170] [remote 64.69.155.33:64351] Not Found: /autodiscover/autodiscover.xml
+[Tue Nov 09 21:59:09.856680 2021] [wsgi:error] [pid 476170] [remote 64.69.155.33:65236] Not Found: /autodiscover/autodiscover.xml
+Exception ignored in: <function Local.__del__ at 0x7ffa53bf30d0>
+Traceback (most recent call last):
+  File "/var/www/paradisum/paradisumenv/lib/python3.8/site-packages/asgiref/local.py", line 96, in __del__
+NameError: name 'TypeError' is not defined
+[Wed Nov 10 20:15:23.377477 2021] [wsgi:error] [pid 483872] [remote 124.158.12.202:54172] Not Found: /wp-login.php
+Exception ignored in: <function BaseEventLoop.__del__ at 0x7ffa53c8aa60>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/base_events.py", line 654, in __del__
+NameError: name 'ResourceWarning' is not defined
+Exception ignored in: <function Local.__del__ at 0x7ffa53c050d0>
+Traceback (most recent call last):
+  File "/var/www/paradisum/paradisumenv/lib/python3.8/site-packages/asgiref/local.py", line 96, in __del__
+NameError: name 'TypeError' is not defined
+[Thu Nov 11 05:31:26.964565 2021] [wsgi:error] [pid 498980] [remote 103.74.118.242:52526] Not Found: /wp-login.php
+[Thu Nov 11 12:14:57.067696 2021] [wsgi:error] [pid 498980] [remote 93.158.91.252:42455] Not Found: /robots.txt
+[Thu Nov 11 12:14:58.016304 2021] [wsgi:error] [pid 498980] [remote 93.158.91.249:52465] Not Found: /humans.txt
+[Thu Nov 11 12:14:58.869644 2021] [wsgi:error] [pid 498980] [remote 93.158.91.243:50173] Not Found: /ads.txt
+Exception ignored in: <function BaseEventLoop.__del__ at 0x7ffa53c8aa60>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/base_events.py", line 654, in __del__
+NameError: name 'ResourceWarning' is not defined
+Exception ignored in: <function Local.__del__ at 0x7ffa53c050d0>
+Traceback (most recent call last):
+  File "/var/www/paradisum/paradisumenv/lib/python3.8/site-packages/asgiref/local.py", line 96, in __del__
+NameError: name 'TypeError' is not defined
+[Fri Nov 12 22:52:17.280873 2021] [wsgi:error] [pid 509781] [remote 87.107.144.54:54400] Not Found: /wp-login.php
+[Fri Nov 12 22:52:17.292336 2021] [wsgi:error] [pid 509781] [remote 87.107.144.54:54398] Not Found: /wp-login.php
+Exception ignored in: <function BaseEventLoop.__del__ at 0x7ffa53c8aa60>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/base_events.py", line 654, in __del__
+NameError: name 'ResourceWarning' is not defined
+Exception ignored in: <function Local.__del__ at 0x7ffa53c050d0>
+Traceback (most recent call last):
+  File "/var/www/paradisum/paradisumenv/lib/python3.8/site-packages/asgiref/local.py", line 96, in __del__
+NameError: name 'TypeError' is not defined
+[Sat Nov 13 07:00:49.223315 2021] [wsgi:error] [pid 517694] [remote 213.142.156.252:52740] Not Found: /wp-login.php
+Exception ignored in: <function Local.__del__ at 0x7ffa53c050d0>
+Traceback (most recent call last):
+  File "/var/www/paradisum/paradisumenv/lib/python3.8/site-packages/asgiref/local.py", line 96, in __del__
+NameError: name 'TypeError' is not defined
+[Sun Nov 14 23:17:44.627913 2021] [wsgi:error] [pid 524542] [remote 149.129.167.106:34782] Not Found: /wp-login.php
+[Sun Nov 14 23:17:45.602897 2021] [wsgi:error] [pid 524542] [remote 149.129.167.106:34814] Not Found: /wp-login.php
+Exception ignored in: <function BaseEventLoop.__del__ at 0x7ffa53c8aa60>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/base_events.py", line 654, in __del__
+NameError: name 'ResourceWarning' is not defined
+Exception ignored in: <function Local.__del__ at 0x7ffa53c050d0>
+Traceback (most recent call last):
+  File "/var/www/paradisum/paradisumenv/lib/python3.8/site-packages/asgiref/local.py", line 96, in __del__
+NameError: name 'TypeError' is not defined
+[Mon Nov 15 07:52:03.973037 2021] [wsgi:error] [pid 531492] [remote 38.107.221.192:40222] Not Found: /wp-login.php
+Exception ignored in: <function BaseEventLoop.__del__ at 0x7ffa53c8aa60>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/base_events.py", line 654, in __del__
+NameError: name 'ResourceWarning' is not defined
+Exception ignored in: <function Local.__del__ at 0x7ffa53c050d0>
+Traceback (most recent call last):
+  File "/var/www/paradisum/paradisumenv/lib/python3.8/site-packages/asgiref/local.py", line 96, in __del__
+NameError: name 'TypeError' is not defined
+[Tue Nov 16 14:34:13.526412 2021] [wsgi:error] [pid 539675] [remote 76.86.124.157:53951] Not Found: /AutoDiscover/autodiscover.xml
+Exception ignored in: <function Local.__del__ at 0x7ffa53c050d0>
+Traceback (most recent call last):
+  File "/var/www/paradisum/paradisumenv/lib/python3.8/site-packages/asgiref/local.py", line 96, in __del__
+NameError: name 'TypeError' is not defined
+[Wed Nov 17 00:47:40.100878 2021] [wsgi:error] [pid 548623] [remote 161.97.135.69:42104] Not Found: /wp-login.php
+[Wed Nov 17 00:47:40.102517 2021] [wsgi:error] [pid 548623] [remote 161.97.135.69:42102] Not Found: /wp-login.php
+[Wed Nov 17 09:37:46.935899 2021] [wsgi:error] [pid 548623] [remote 162.214.208.84:56990] Not Found: /wp-login.php
+Exception ignored in: <function Local.__del__ at 0x7ffa53bf30d0>
+Traceback (most recent call last):
+  File "/var/www/paradisum/paradisumenv/lib/python3.8/site-packages/asgiref/local.py", line 96, in __del__
+NameError: name 'TypeError' is not defined
+Exception ignored in: <function BaseEventLoop.__del__ at 0x7ffa53c8aa60>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/base_events.py", line 654, in __del__
+NameError: name 'ResourceWarning' is not defined
+Exception ignored in: <function Local.__del__ at 0x7ffa53c050d0>
+Traceback (most recent call last):
+  File "/var/www/paradisum/paradisumenv/lib/python3.8/site-packages/asgiref/local.py", line 96, in __del__
+NameError: name 'TypeError' is not defined
+Exception ignored in: <function BaseEventLoop.__del__ at 0x7ffa53c8aa60>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/base_events.py", line 654, in __del__
+NameError: name 'ResourceWarning' is not defined
+Exception ignored in: <function Local.__del__ at 0x7ffa53c040d0>
+Traceback (most recent call last):
+  File "/var/www/paradisum/paradisumenv/lib/python3.8/site-packages/asgiref/local.py", line 96, in __del__
+NameError: name 'TypeError' is not defined
+Exception ignored in: <function BaseEventLoop.__del__ at 0x7ffa53c8aa60>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/base_events.py", line 654, in __del__
+NameError: name 'ResourceWarning' is not defined
+Exception ignored in: <function Local.__del__ at 0x7ffa53c050d0>
+Traceback (most recent call last):
+  File "/var/www/paradisum/paradisumenv/lib/python3.8/site-packages/asgiref/local.py", line 96, in __del__
+NameError: name 'TypeError' is not defined
+Exception ignored in: <function BaseEventLoop.__del__ at 0x7ffa53c8aa60>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/base_events.py", line 654, in __del__
+NameError: name 'ResourceWarning' is not defined
+Exception ignored in: <function Local.__del__ at 0x7ffa53c050d0>
+Traceback (most recent call last):
+  File "/var/www/paradisum/paradisumenv/lib/python3.8/site-packages/asgiref/local.py", line 96, in __del__
+NameError: name 'TypeError' is not defined
+Exception ignored in: <function BaseEventLoop.__del__ at 0x7ffa53c8aa60>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/base_events.py", line 654, in __del__
+NameError: name 'ResourceWarning' is not defined
+Exception ignored in: <function Local.__del__ at 0x7ffa53c050d0>
+Traceback (most recent call last):
+  File "/var/www/paradisum/paradisumenv/lib/python3.8/site-packages/asgiref/local.py", line 96, in __del__
+NameError: name 'TypeError' is not defined
+Exception ignored in: <function BaseEventLoop.__del__ at 0x7ffa53c8aa60>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/base_events.py", line 654, in __del__
+NameError: name 'ResourceWarning' is not defined
+Exception ignored in: <function Local.__del__ at 0x7ffa53c050d0>
+Traceback (most recent call last):
+  File "/var/www/paradisum/paradisumenv/lib/python3.8/site-packages/asgiref/local.py", line 96, in __del__
+NameError: name 'TypeError' is not defined
+Exception ignored in: <function BaseEventLoop.__del__ at 0x7ffa53c8aa60>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/base_events.py", line 654, in __del__
+NameError: name 'ResourceWarning' is not defined
+Exception ignored in: <function Local.__del__ at 0x7ffa53c050d0>
+Traceback (most recent call last):
+  File "/var/www/paradisum/paradisumenv/lib/python3.8/site-packages/asgiref/local.py", line 96, in __del__
+NameError: name 'TypeError' is not defined
+Exception ignored in: <function BaseEventLoop.__del__ at 0x7ffa53c8aa60>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/base_events.py", line 654, in __del__
+NameError: name 'ResourceWarning' is not defined
+Exception ignored in: <function Local.__del__ at 0x7ffa53c050d0>
+Traceback (most recent call last):
+  File "/var/www/paradisum/paradisumenv/lib/python3.8/site-packages/asgiref/local.py", line 96, in __del__
+NameError: name 'TypeError' is not defined
+Exception ignored in: <function BaseEventLoop.__del__ at 0x7ffa53c8aa60>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/base_events.py", line 654, in __del__
+NameError: name 'ResourceWarning' is not defined
+Exception ignored in: <function Local.__del__ at 0x7ffa53c050d0>
+Traceback (most recent call last):
+  File "/var/www/paradisum/paradisumenv/lib/python3.8/site-packages/asgiref/local.py", line 96, in __del__
+NameError: name 'TypeError' is not defined
