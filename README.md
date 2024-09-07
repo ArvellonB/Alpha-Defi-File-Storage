@@ -53,7 +53,7 @@ Delete a file: If you're the owner, use deleteFile() to remove it.
 Transfer file ownership: Use transferOwnership() to give the file to someone else.
 
 About Me
-I'm Arvellon, and I created this project to explore how decentralized storage can work using blockchain and IPFS. Feel free to contribute, fork the project, or even use it as a stepping stone for your own projects!
+I'm Arvellon, and I created this project to explore how decentralized storage can work using blockchain and IPFS. Feel free to contribute, fork the project, or even use it as a stepping stone for your own projects! Just Please Ask first 
 
 License
 This project is licensed under the MIT License. You can find more details in the LICENSE file.
