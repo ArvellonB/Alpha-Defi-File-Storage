@@ -16,19 +16,32 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
 
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12' # Specify the exact version you need
+
+      - name: Upgrade pip
+        run: |
+            python -m pip install --upgrade pip
+
+      - name: Install Python dependencies
+        run: |
+            pip install -r requirements.txt
+
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
           node-version: '18' # Specify your Node.js version
 
-      - name: Install dependencies
-        run: npm install
+      - name: Install Truffle
+        run: npm install -g truffle
 
       - name: Compile Solidity contracts
-        run: npx truffle compile # Assuming you use Truffle for compiling Solidity contracts
+        run: npx truffle compile # Ensure you are using Truffle for Solidity
 
       - name: Run tests
-        run: npx truffle test # Assuming you have tests defined in Truffle
+        run: npx truffle test # Ensure you have tests defined in Truffle
 
       - name: Deploy smart contracts
         run: npx truffle migrate --network <your_network> # Replace <your_network> with your actual network
