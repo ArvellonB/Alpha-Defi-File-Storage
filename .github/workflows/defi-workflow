@@ -1,4 +1,4 @@
-name: Defi-File-Storage
+name: Defi File Storage CI/CD Pipeline
 
 on:
   push:
@@ -19,19 +19,22 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '18' # Specify your Node.js version here
+          node-version: '18' # Specify your Node.js version
 
       - name: Install dependencies
         run: npm install
 
+      - name: Compile Solidity contracts
+        run: npx truffle compile # Assuming you use Truffle for compiling Solidity contracts
+
       - name: Run tests
-        run: npm test
+        run: npx truffle test # Assuming you have tests defined in Truffle
 
-      - name: Build project
-        run: npm run build
-
-      - name: Deploy project
-        run: npm run deploy
+      - name: Deploy smart contracts
+        run: npx truffle migrate --network <your_network> # Replace <your_network> with your actual network
         env:
-          DEPLOY_API_KEY: ${{ secrets.DEPLOY_API_KEY }} # Example of using a secret
+          INFURA_PROJECT_ID: ${{ secrets.INFURA_PROJECT_ID }}
+          INFURA_PROJECT_SECRET: ${{ secrets.INFURA_PROJECT_SECRET }}
 
+      - name: Notify deployment status
+        run: echo "Deployment complete"
