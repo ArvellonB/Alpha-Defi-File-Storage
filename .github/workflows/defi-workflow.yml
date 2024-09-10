@@ -43,11 +43,9 @@ jobs:
       - name: Run tests
         run: npx truffle test # Ensure you have tests defined in Truffle
 
-      - name: Deploy smart contracts
-        run: npx truffle migrate --network <your_network> # Replace <your_network> with your actual network
-        env:
-          INFURA_PROJECT_ID: ${{ secrets.INFURA_PROJECT_ID }}
-          INFURA_PROJECT_SECRET: ${{ secrets.INFURA_PROJECT_SECRET }}
+      - name: Deploy smart contracts (local network)
+        run: npx truffle migrate --network development # Use a local network or change to a test network
+        # Remove the env section as no secrets are used
 
       - name: Notify deployment status
         run: echo "Deployment complete"
