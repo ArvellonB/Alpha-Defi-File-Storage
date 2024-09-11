@@ -3,11 +3,10 @@ name: Defi File Storage CI/CD Pipeline
 on:
   push:
     branches:
-      - main
+      - master
   pull_request:
     branches:
-      - main
-
+      - master
 jobs:
   build:
     runs-on: ubuntu-latest
