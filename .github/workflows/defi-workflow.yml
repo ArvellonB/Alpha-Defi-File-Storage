@@ -50,3 +50,4 @@ jobs:
 
       - name: Deploy smart contracts
         run: npx truffle deploy
+# Updated workflow file to test force commit
