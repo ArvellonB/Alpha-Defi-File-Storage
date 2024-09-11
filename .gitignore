@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite
+.env
+
+# Virtual Environment
+venv/
+.venv/
+
+# Node modules (if any)
+node_modules/
+
+# Truffle artifacts
+build/
+
+# Logs
+*.log
+
