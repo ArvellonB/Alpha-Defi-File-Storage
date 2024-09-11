@@ -1,3 +1,13 @@
+certifi==2024.8.30
+charset-normalizer==2.1.1
+click==8.1.7
+defi-file-storage @ file:///Users/arvellon/Documents/Defi-File-Storage
 Flask==2.2.2
-requests==2.28.1
+idna==3.8
+itsdangerous==2.2.0
+Jinja2==3.1.4
+MarkupSafe==2.1.5
 numpy==1.25.2
+requests==2.28.1
+urllib3==1.26.20
+Werkzeug==3.0.4

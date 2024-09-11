@@ -13,33 +13,46 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # Checkout the repository code
       - name: Checkout code
         uses: actions/checkout@v3
 
+      # Set up Python 3.11
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.11'
 
-      - name: Upgrade pip and install Python dependencies
+      # Upgrade pip and install Python dependencies
+      - name: Install Python dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install setuptools
           pip install -r requirements.txt
 
+      # Set up Node.js version 18
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
           node-version: '18'
 
-      - name: Install Truffle
-        run: npm install -g truffle
+      # Install JavaScript dependencies and Truffle globally
+      - name: Install Node.js dependencies and Truffle
+        run: |
+          npm install
+          npm install -g truffle
 
+      # Compile Solidity contracts using Truffle
       - name: Compile Solidity contracts
-        run: npx truffle compile
+        run: |
+          npx truffle compile
 
-      - name: Run tests
-        run: npx truffle test
+      # Run Solidity tests using Truffle
+      - name: Run Solidity tests
+        run: |
+          npx truffle test
 
+      # Deploy smart contracts (optional, can remove if only testing)
       - name: Deploy smart contracts
-        run: npx truffle deploy
+        run: |
+          npx truffle deploy
+        continue-on-error: true  # Optional: Continue even if deployment fails

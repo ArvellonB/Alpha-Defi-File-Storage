@@ -1,3 +1,15 @@
 Metadata-Version: 2.1
 Name: defi-file-storage
 Version: 0.1
+Requires-Dist: Flask==2.2.2
+Requires-Dist: Jinja2==3.1.4
+Requires-Dist: MarkupSafe==2.1.5
+Requires-Dist: Werkzeug==3.0.4
+Requires-Dist: certifi==2024.8.30
+Requires-Dist: charset-normalizer==2.1.1
+Requires-Dist: click==8.1.7
+Requires-Dist: idna==3.8
+Requires-Dist: itsdangerous==2.2.0
+Requires-Dist: requests==2.28.1
+Requires-Dist: urllib3==1.26.20
+Requires-Dist: numpy==1.25.2
