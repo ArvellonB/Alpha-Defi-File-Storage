@@ -44,4 +44,4 @@ jobs:
         run: npx truffle test
 
       - name: Deploy smart contracts
-        run: npx truffle
+        run: npx truffle migrate --network <network-name>
