@@ -1,0 +1,21 @@
+{
+  "name": "defi-file-storage",
+  "version": "1.0.0",
+  "description": "A blockchain-based file storage solution",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ArvellonB/Defi-File-Storage.git"
+  },
+  "keywords": [
+    "blockchain",
+    "file-storage",
+    "defi"
+  ],
+  "author": "Arvellon Ballard",
+  "license": "ISC"
+}
+
