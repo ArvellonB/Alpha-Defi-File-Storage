@@ -1,0 +1,6 @@
+README.md
+setup.py
+defi_file_storage.egg-info/PKG-INFO
+defi_file_storage.egg-info/SOURCES.txt
+defi_file_storage.egg-info/dependency_links.txt
+defi_file_storage.egg-info/top_level.txt
