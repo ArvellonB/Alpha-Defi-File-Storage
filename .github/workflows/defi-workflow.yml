@@ -19,19 +19,12 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.12'
+          python-version: '3.11'
 
-      - name: Install distutils
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y python3-distutils
-
-      - name: Upgrade pip
+      - name: Upgrade pip and install Python dependencies
         run: |
           python -m pip install --upgrade pip
-
-      - name: Install Python dependencies
-        run: |
+          pip install setuptools
           pip install -r requirements.txt
 
       - name: Set up Node.js
@@ -50,4 +43,3 @@ jobs:
 
       - name: Deploy smart contracts
         run: npx truffle deploy
-# Updated workflow file to test force commit
