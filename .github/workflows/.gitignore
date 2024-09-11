@@ -1,9 +1,10 @@
-# Ignore Python bytecode files
-**/__pycache__/
-**/*.pyc
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
 
-# Ignore virtual environments
-venv/
+# Node.js
+node_modules/
 
-# Ignore macOS system files
-.DS_Store
+# Truffle
+build/

@@ -3,10 +3,11 @@ name: Defi File Storage CI/CD Pipeline
 on:
   push:
     branches:
-      - master
+      - main
   pull_request:
     branches:
-      - master
+      - main
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -43,4 +44,4 @@ jobs:
         run: npx truffle test
 
       - name: Deploy smart contracts
-        run: npx truffle migrate --network <network-name>
+        run: npx truffle deploy
